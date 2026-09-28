@@ -1,0 +1,17 @@
+{
+  "name": "ai-agent",
+  "version": "1.0.0",
+  "description": "",
+  "license": "ISC",
+  "author": "",
+  "type": "commonjs",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "dependencies": {
+    "dotenv": "^18.0.4",
+    "groq-sdk": "^1.6.0",
+    "openai": "^7.23.0"
+  }
+}
